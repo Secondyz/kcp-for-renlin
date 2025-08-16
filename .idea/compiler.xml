@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="untitled4.gradle-plugin" target="21" />
+      <module name="untitled4.gradle-plugin.main" target="21" />
+      <module name="untitled4.gradle-plugin.test" target="21" />
+      <module name="untitled4.kotlin-plugin" target="21" />
+      <module name="untitled4.kotlin-plugin.main" target="21" />
+      <module name="untitled4.kotlin-plugin.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="untitled4.gradle-plugin" options="-proc:none" />
+      <module name="untitled4.gradle-plugin.main" options="-proc:none" />
+      <module name="untitled4.gradle-plugin.test" options="-proc:none" />
+      <module name="untitled4.kotlin-plugin" options="-proc:none" />
+      <module name="untitled4.kotlin-plugin.main" options="-proc:none" />
+      <module name="untitled4.kotlin-plugin.test" options="-proc:none" />
+    </option>
+  </component>
+</project>
